@@ -4,8 +4,7 @@ import os
 import re
 import pygame
 from dotenv import load_dotenv
-from datetime import datetime, timedelta
-import base64
+from datetime import datetime
 
 # 상수 정의
 DIFFICULTY_TIMERS = {
