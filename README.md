@@ -34,6 +34,10 @@ Gemini API와 Streamlit을 활용하여 제작된 텍스트 기반 방탈출 게
       ```
       GEMINI_API_KEY="YOUR_API_KEY"
       ```
+4. **BGM 파일 가져오기**:
+   - bgm 파일이 커서 업로드하지 못했습니다.
+   - 원하는 bgm파일을 실행 파일과 같은 경로로 가져와야합니다.
+   - bgm 파일 이름을 bgm.wav로 설정합니다. (wav형식)
 
 ### 게임 실행
 
